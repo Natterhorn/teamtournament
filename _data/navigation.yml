@@ -1,0 +1,13 @@
+main:
+  - title: "Registration"
+    url: /registration/
+  - title: "Accomodations"
+    url: /accomodations/
+  - title: "Rules"
+    url: /rules/
+  - title: "Schedule"
+    url: /schedule/  
+  - title: "Contact Us"
+    url: /contact/
+  - title: "Past Events"
+    url: /past/
