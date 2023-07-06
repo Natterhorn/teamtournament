@@ -6,3 +6,12 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.page__footer footer {
+    margin-top: 1em;
+    padding: 0 1em 1em;
+  }
+
+body {
+    font-family: trebuchet ms, sans-serif;
+}
