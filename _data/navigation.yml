@@ -7,7 +7,5 @@ main:
     url: /rules/
   - title: "Schedule"
     url: /schedule/  
-  - title: "Contact Us"
+  - title: "Contact"
     url: /contact/
-  - title: "Past Events"
-    url: /past/

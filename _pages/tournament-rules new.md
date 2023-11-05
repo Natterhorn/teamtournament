@@ -24,6 +24,13 @@ A player must have all Character cards, Team Tactic cards, and Crisis cards incl
 ### **Dice**
 Players should use official *Marvel: Crisis Protocol* dice, which includes the dice found in the Core Box, Dice Expansions, and/or promotional material distributed by Atomic Mass Games. Players may use replacement dice if approved by the EO.
 
+### **Measurement Tools**
+1. Choose one set of widgets and use those for the entire game.
+1. When a model is pushed or thrown a declared distance, it is assumed that the model can be pushed or thrown back the same distance and return to the same point. (This is commonly a result of someone with new widgets throwing a model off an objective and then the model being pushed back onto the point with the old widgets)
+
+### **Deployment (The Pastrami Rule)**
+As the mats are only pre-marked in one orientation, players are not allowed to rotate the mat and can only choose to deploy from one of the two edges facing the chairs.
+
 ### **USE OF TIMING DEVICES**
 #### **Swiss Round Times**
 Each event round of *Marvel: Crisis Protocol* is a predetermined length, giving players a certain amount of time to complete their games. The EO should start the timer for an event round after most players have found their seats and begun to set up. If a game has not concluded when the time for an event round runs out, the player with the most victory points (VPs) is the winner. In the case of a tie, players will immediately score the table as if the round had ended. If it is still a tie at this point, it will be recorded as a draw.
@@ -55,3 +62,10 @@ The “Roster” category concerns the set of 10 models the player is using in t
 When submitting models for the painting competition, players will be required to indicate which models they are submitting to the individual model categories. Slips of paper will be provided to label painting submissions and indicate models. If a player fails to indicate a model for one of the two individual model categories, they will not be considered in contention for that category. One model cannot be submitted for both “Hero” and “Villain” categories even if that character has canonically been considered both a hero and a villain. 
 
 The painting competition will take place during lunch on Saturday Oct. 21st, and the winners will be announced in the closing ceremony on Sunday Oct. 22nd. 
+
+## **BEST IN AFFILIATION PRIZES**
+At the end of the event, Second Wind will be giving out a custom token to the best player in each affilation. Winners will be determined by the final standings and awarded to the highest placing player for each affiliation. In the case where a player brought a multi affilation roster they will be able to pick the token for any affiliation that they played at least one game with during the event. 
+
+Example tokens from previous years:
+
+<img src="/assets/images/swag01.jpg" alt="drawing" width="600" />
