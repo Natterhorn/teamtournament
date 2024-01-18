@@ -89,8 +89,6 @@ Squad Goals’s painting competition will have three categories, judged by a pan
 * Best Roster
 * Best Model
 
-No player can win more than a single category (including the Total Team one). 
-
 The "Total Team" category concerns the set of 30 models played by each player in the tournament. 
 The "Roster" category concerns the set of 10 models the player is using in the tournament. 
 The "Model" category concerns a single model, chosen by the player, that is among the models the player is using in the tournament. 
