@@ -18,8 +18,9 @@ Squad Goals will be using the Standard timeline as outlined in the AMG Challenge
 Teams will be made of 3 players.
 
 * Teams may not have any duplicate Characters or Crisis Cards
-* Teams may have duplicate Unrestricted Tactic cards
-* Teams may only have two copies of a Restricted Tactic card across the three rosters
+* Teams may have duplicate Tactics cards
+[comment]: # (* Teams may have duplicate Unrestricted Tactics cards)
+[comment]: # (* Teams may only have two copies of a Restricted Tactic card across the three rosters)
 
 ### **Matchup Process**
 The captains from each team will work together to determine the individual pairings of the players within their teams using the following method:
