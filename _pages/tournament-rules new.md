@@ -25,9 +25,10 @@ Teams will be made of 3 players.
 The captains from each team will work together to determine the individual pairings of the players within their teams using the following method:
 1. Each team will have the 3 sheets to represent the three players on the team. Each team (referred to as Team A and Team B) will meet at the set of three tables (Table 1, Table 2, and Table 3) they are assigned to.
 1. To determine who is Team A and who is Team B, a 5 die priority roll is used once each team is at the table.  The winner becomes Team A.
-1. Team A will choose one of their players and place their sheet face down any table of their choosing. Team B will choose one of their players and place their sheet face down on either of the other tables not chosen by Team A.
-1. The sheets on Tables 1 and 3 are revealed.
-1. Team A will choose one of their remaining players and place them face-down the table chosen by Team B and the last player on the remaining empty table. Team B will choose one of their remaining players and place them face-down on the table Team A chose and the last player face-down on the remaining empty table.
+1. Team A will choose one of their players and place their sheet face down any table of their choosing. 
+1. Team B will choose one of their players and place their sheet face down on either of the other tables not chosen by Team A.
+1. The sheets placed in the previous two steps are revealed.
+1. Team A will choose one of their remaining players and place them face-down the table chosen by Team B above and the last player on the remaining empty table. Simultaneously, Team B will choose one of their remaining players and place them face-down on the table Team A chose above and the last player face-down on the remaining empty table.
 1. All sheet from the previous step are revealed and matches can then begin.
 
 ### **Team Tournament Scoring**
