@@ -6,11 +6,13 @@ layout: single
 author_profile: false
 ---
 
-There is no formal hotel block this year, but we recommend the following location:
+Coming soon!
 
-[https://www.ihg.com/holidayinn/hotels/us/en/skokie/chisk/hoteldetail](https://www.ihg.com/holidayinn/hotels/us/en/skokie/chisk/hoteldetail)
+[comment]: # (There is no formal hotel block this year, but we recommend the following location:)
+
+[comment]: # ([https://www.ihg.com/holidayinn/hotels/us/en/skokie/chisk/hoteldetail](https://www.ihg.com/holidayinn/hotels/us/en/skokie/chisk/hoteldetail))
 
 
-Holiday Inn Skokie
+[comment]: # (Holiday Inn Skokie)
 
-5300 W Touhy Ave, Skokie, IL 60077
+[comment]: # (5300 W Touhy Ave, Skokie, IL 60077)

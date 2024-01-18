@@ -7,8 +7,38 @@ toc: true
 author_profile: false
 ---
 
+
+
+## **THESE RULES ARE A WORK IN PROGRESS. NOT FINAL**
+
 ## **FORMAT**
-Second Wind will be a Challenger event, using the Standard timeline as outlined in the AMG Challenger rules document [https://www.atomicmassgames.com/marvel/op](https://www.atomicmassgames.com/marvel/op). In a few cases, we diverge from the rules template provided there, which are detailed below.
+Squad Goals will be using the Standard timeline as outlined in the AMG Challenger rules document found here: [https://www.atomicmassgames.com/marvel/op](https://www.atomicmassgames.com/marvel/op). Largely the other rules in the challenger doc will be followed, but in a few cases, we diverge from the rules template provided there, which are detailed below.
+
+### **Team Construction**
+Teams will be made of 3 players.
+
+* Teams may not have any duplicate Characters or Crisis Cards
+* Teams may have duplicate Unrestricted Tactic cards
+* Teams may only have two copies of a Restricted Tactic card across the three rosters
+
+### **Matchup Process**
+The captains from each team will work together to determine the individual pairings of the players within their teams using the following method:
+1. Each team will have the 3 sheets to represent the three players on the team. Each team (referred to as Team A and Team B) will meet at the set of three tables (Table 1, Table 2, and Table 3) they are assigned to.
+1. To determine who is Team A and who is Team B, a 5 die priority roll is used once each team is at the table.  The winner becomes Team A.
+1. Team A will choose one of their players and place their sheet face down any table of their choosing. Team B will choose one of their players and place their sheet face down on either of the other tables not chosen by Team A.
+1. The sheets on Tables 1 and 3 are revealed.
+1. Team A will choose one of their remaining players and place them face-down the table chosen by Team B and the last player on the remaining empty table. Team B will choose one of their remaining players and place them face-down on the table Team A chose and the last player face-down on the remaining empty table.
+1. All sheet from the previous step are revealed and matches can then begin.
+
+### **Team Tournament Scoring**
+The team that gains 2 or more victories from the 3 games in a round is declared the winner and receives one 1 tournament point. The losing team receives 0 points.
+Each player that wins their game in a round is awarded a “Player Tournament Point”.
+
+Each team’s strength of schedule will be calculated and will be used as the 1st tiebreaker.
+The total “Player Tournament Points” a team has accumulated will be used as the 2nd tiebreaker.
+The number of victory points each team earns across all 3 games for a round is also recorded and is used as the 3rd tiebreaker.
+
+## **OTHER**
 
 ### **Miniatures**
 Each player must have the miniature for each character on their roster. Players are allowed to customize their miniatures as they like but must follow these guidelines:
@@ -31,14 +61,14 @@ Players should use official *Marvel: Crisis Protocol* dice, which includes the d
 ### **Deployment (The Pastrami Rule)**
 As the mats are only pre-marked in one orientation, players are not allowed to rotate the mat and can only choose to deploy from one of the two edges facing the chairs.
 
-### **USE OF TIMING DEVICES**
+### **Use of Timing Devices**
 #### **Swiss Round Times**
 Each event round of *Marvel: Crisis Protocol* is a predetermined length, giving players a certain amount of time to complete their games. The EO should start the timer for an event round after most players have found their seats and begun to set up. If a game has not concluded when the time for an event round runs out, the player with the most victory points (VPs) is the winner. In the case of a tie, players will immediately score the table as if the round had ended. If it is still a tie at this point, it will be recorded as a draw.
 
 This event will use a 100 minute round timer.
 
 #### **Chess Clocks**
-Chess clocks will be used for Second Wind. Chess clocks should be set to 45 minutes per player. When a player’s clock runs out, they immediately lose the game regardless of current VPs.
+Chess clocks will be used for Squad Goals. Chess clocks should be set to 45 minutes per player. When a player’s clock runs out, they immediately lose the game regardless of current VPs.
 
 At the start of the game, the clocks will remain paused until deployment and the first power phase is complete, at which point the priority player will start their clock and take their first turn.
 
@@ -49,7 +79,7 @@ The clock may be paused at the players’ discretion to resolve rules queries or
 In order to ensure timing in tournament games is fair and reasonable, at the end of the round the clock is immediately paused for the entirety of the Cleanup Phase and the following Power Phase. If either player is taking an excessive amount of time to resolve any decisions or player effects, a judge should be called to help resolve the issue.
 
 ## **PAINTING COMPETITION**
-Second Wind’s painting competition will have three categories, judged by a panel of painting experts:
+Squad Goals’s painting competition will have three categories, judged by a panel of painting experts:
 
 * Best Roster
 * Best Hero
@@ -62,10 +92,3 @@ The “Roster” category concerns the set of 10 models the player is using in t
 When submitting models for the painting competition, players will be required to indicate which models they are submitting to the individual model categories. Slips of paper will be provided to label painting submissions and indicate models. If a player fails to indicate a model for one of the two individual model categories, they will not be considered in contention for that category. One model cannot be submitted for both “Hero” and “Villain” categories even if that character has canonically been considered both a hero and a villain. 
 
 The painting competition will take place during lunch on Saturday Oct. 21st, and the winners will be announced in the closing ceremony on Sunday Oct. 22nd. 
-
-## **BEST IN AFFILIATION PRIZES**
-At the end of the event, Second Wind will be giving out a custom token to the best player in each affilation. Winners will be determined by the final standings and awarded to the highest placing player for each affiliation. In the case where a player brought a multi affilation roster they will be able to pick the token for any affiliation that they played at least one game with during the event. 
-
-Example tokens from previous years:
-
-<img src="/assets/images/swag01.jpg" alt="drawing" width="600" />

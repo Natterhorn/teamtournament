@@ -13,15 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: GhostDeer's Memorial Team Tournament
+title: Squad Goals - A MCP Team Tournament
 title_separator: "|"
-subtitle: "May 2024. ???, Chicago"
+subtitle: "May 18-19 2024. Pastimes Comics & Games, Chicago"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Join Alfredo's Size 3 Taco Truck and the Chicago MCP community at Alarmist Brewing for the Third annual Second Wind Tournament! 
-  Enjoy two days of exciting Marvel Crisis Protocol action and great drinking in the Windy City at this 64-player MCP tournament. 
-  Featuring an incredible prize pool, a raffle, and many of the US's best players. 
-  Whether you're a friendly neighborhood player or an omega level threat, come warm up with a strong beer and play some Marvel Crisis Protocol!
+  Alfredo's Size 3 Taco Truck Presents: Squad Goals - A MCP Team Tournament! 
 minimal_mistakes_skin: mint
 search: false
 teaser: /assets/images/bio-photo.jpg
@@ -64,7 +61,7 @@ plugins:
 author:
   name   : "Team Tournament"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "May 2024. ???, Chicago"
+  bio    : "May 18-19 2024. Pastimes Comics & Games, Chicago"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"

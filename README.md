@@ -1,6 +1,6 @@
-https://pvanv.github.io/second-wind/
+https://natterhorn.github.io/teamtournament/
 
-https://www.secondwindchicago.com/ 
+https://www.squadgoalsmcp.com/ 
 
 bundle exec jekyll serve
 

@@ -1,8 +1,8 @@
 main:
   - title: "Registration"
     url: /registration/
-  - title: "Accomodations"
-    url: /accomodations/
+  # - title: "Accomodations"
+  #   url: /accomodations/
   - title: "Rules"
     url: /rules/
   - title: "Schedule"
