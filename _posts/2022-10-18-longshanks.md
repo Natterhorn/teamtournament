@@ -1,9 +1,8 @@
 ---
-title: "2022 Longshanks"
+title: "2024 Longshanks"
 categories:
-  - sw2022
+  - sg2024
   - pastEvents
-  - news
 author_profile: false
 ---
-[https://www.longshanks.org/events/detail/?event=5107](https://www.longshanks.org/events/detail/?event=5107)
+[https://www.longshanks.org/event/13057/](https://www.longshanks.org/event/13057/)
