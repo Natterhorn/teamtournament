@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 
-PRICE: $150 / team
+PRICE: $150 / team (Reminder: teams are 3 players, please only send one payment per team)
 
 Payable at: [https://www.paypal.com/paypalme/SquadGoalsMCP/150](https://www.paypal.com/paypalme/SquadGoalsMCP/150)
 
