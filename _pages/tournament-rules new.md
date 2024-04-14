@@ -32,7 +32,7 @@ The captains from each team will work together to determine the individual pairi
 1. Team B will choose one of their players and place their sheet face down on either of the other tables not chosen by Team A.
 1. The sheets placed in the previous two steps are revealed.
 1. Team A will choose one of their remaining players and place them face-down the table chosen by Team B above and the last player on the remaining empty table. Simultaneously, Team B will choose one of their remaining players and place them face-down on the table Team A chose above and the last player face-down on the remaining empty table.
-1. All sheet from the previous step are revealed and matches can then begin.
+1. All sheets from the previous step are revealed and matches can then begin.
 
 ### **Team Tournament Scoring**
 The team that gains 2 or more victories from the 3 games in a round is declared the winner and receives one 1 tournament point. The losing team receives 0 points.
