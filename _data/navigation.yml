@@ -9,3 +9,5 @@ main:
     url: /schedule/  
   - title: "Contact"
     url: /contact/
+  - title: "Past Events"
+    url: /past/

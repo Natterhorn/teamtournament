@@ -38,9 +38,10 @@ The captains from each team will work together to determine the individual pairi
 The team that gains 2 or more victories from the 3 games in a round is declared the winner and receives one 1 tournament point. The losing team receives 0 points.
 Each player that wins their game in a round is awarded a “Player Tournament Point”.
 
-Each team’s strength of schedule will be calculated and will be used as the 1st tiebreaker.
-The total “Player Tournament Points” a team has accumulated will be used as the 2nd tiebreaker.
-The number of victory points each team earns across all 3 games for a round is also recorded and is used as the 3rd tiebreaker.
+This event will use the Longshanks Top Table feature for the 1st tiebreaker
+Each team’s strength of schedule will be calculated and will be used as the 2nd tiebreaker.
+The total “Player Tournament Points” a team has accumulated will be used as the 3rd tiebreaker.
+The number of victory points each team earns across all 3 games for a round is also recorded and is used as the 4th tiebreaker.
 
 ## **OTHER**
 
