@@ -7,10 +7,6 @@ toc: true
 author_profile: false
 ---
 
-
-
-## **THESE RULES ARE A WORK IN PROGRESS. NOT FINAL**
-
 ## **FORMAT**
 Squad Goals will be using the Standard timeline as outlined in the AMG Challenger rules document found here: [https://www.atomicmassgames.com/marvel/op](https://www.atomicmassgames.com/marvel/op). Largely the other rules in the challenger doc will be followed, but in a few cases, we diverge from the rules template provided there, which are detailed below.
 

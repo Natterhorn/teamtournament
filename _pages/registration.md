@@ -6,7 +6,7 @@ layout: single
 author_profile: false
 ---
 
-Registration for Squad Goals 2 is unavailable yet
+Registration for Squad Goals 2 is not yet available
 [comment]: # (PRICE: $150 / team (Reminder: teams are 3 players, please only send one payment per team))
 
 [comment]: # (Payable at: [https://www.paypal.com/paypalme/SquadGoalsMCP/150](https://www.paypal.com/paypalme/SquadGoalsMCP/150))
