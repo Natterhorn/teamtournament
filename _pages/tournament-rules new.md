@@ -90,4 +90,4 @@ The "Total Team" category concerns the set of 30 models played by each player in
 The "Roster" category concerns the set of 10 models the player is using in the tournament. 
 The "Model" category concerns a single model, chosen by the player, that is among the models the player is using in the tournament. 
 
-The painting competition will take place during lunch on Saturday May 18th, and the winners will be announced in the closing ceremony on Sunday May 19th. 
+The painting competition will take place during lunch on Saturday May 18th, and the winners will be announced in the closing ceremony on Sunday May 4th. 

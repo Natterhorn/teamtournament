@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Squad Goals - A MCP Team Tournament
 title_separator: "|"
-subtitle: "May 18-19 2024. Pastimes Comics & Games, Chicago"
+subtitle: "May 03-04 2025. Pastimes Comics & Games, Chicago"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Alfredo's Size 3 Taco Truck Presents: Squad Goals - A MCP Team Tournament! 
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "Team Tournament"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "May 18-19 2024. Pastimes Comics & Games, Chicago"
+  bio    : "May 3-4 2025. Pastimes Comics & Games, Chicago"
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
