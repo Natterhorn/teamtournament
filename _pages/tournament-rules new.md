@@ -14,7 +14,7 @@ Squad Goals will be using the Standard timeline as outlined in the AMG Challenge
 Teams will be made of 3 players.
 
 * Teams may not have any duplicate Characters or Crisis Cards
-* Teams may have duplicate Tactics 
+* Teams may have duplicate Tactics Cards
 
 [comment]: # (* Teams may have duplicate Unrestricted Tactics cards)
 
