@@ -34,11 +34,11 @@ gallery2:
 Power Phase Prodigies
 <figure>    
     <figcaption>Lordmatt</figcaption>
-    <a href="/assets/images/2025/best_team_1.jpg"><img src="/assets/images/2025/best_team_1.jpg"></a>
+    <a href="/assets/images/2025/best_team_11.jpg"><img src="/assets/images/2025/best_team_11.jpg"></a>
     <figcaption>Alec Mason</figcaption>
-    <a href="/assets/images/2025/best_team_2.jpg"><img src="/assets/images/2025/best_team_2.jpg"></a>
+    <a href="/assets/images/2025/best_team_21.jpg"><img src="/assets/images/2025/best_team_21.jpg"></a>
     <figcaption>MarkH</figcaption>
-    <a href="/assets/images/2025/best_team_3.jpg"><img src="/assets/images/2025/best_team_3.jpg"></a>    
+    <a href="/assets/images/2025/best_team_31.jpg"><img src="/assets/images/2025/best_team_31.jpg"></a>    
 </figure>
 
 <h3>Best Roster:</h3>
