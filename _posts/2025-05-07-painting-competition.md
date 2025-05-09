@@ -57,3 +57,4 @@ Power Phase Prodigies
 <figure>
     {% include gallery id="gallery2" caption="" %}  
 </figure>
+.
