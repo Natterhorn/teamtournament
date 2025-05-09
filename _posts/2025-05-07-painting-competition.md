@@ -44,7 +44,7 @@ Power Phase Prodigies
 <h3>Best Roster:</h3>
 <figure>
     <figcaption>Adam Lebo</figcaption>
-    <a href="/assets/images/2025/Best_roster_1.jpg"><img src="/assets/images/2025/Best_roster_1.jpg"></a>    
+    <a href="/assets/images/2025/best_roster_1.jpg"><img src="/assets/images/2025/best_roster_1.jpg"></a>    
 </figure>
 
 <h3>Best Model:</h3>
