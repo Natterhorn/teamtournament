@@ -33,11 +33,11 @@ gallery2:
 <h3>Best Total Team:</h3>
 Power Phase Prodigies
 <figure>    
-    <figcaption>Lordmatt</figcaption>
+    <figcaption>MarkH</figcaption>
     <a href="/assets/images/2025/best_team_11.jpg"><img src="/assets/images/2025/best_team_11.jpg"></a>
     <figcaption>Alec Mason</figcaption>
     <a href="/assets/images/2025/best_team_21.jpg"><img src="/assets/images/2025/best_team_21.jpg"></a>
-    <figcaption>MarkH</figcaption>
+    <figcaption>Lordmatt</figcaption>
     <a href="/assets/images/2025/best_team_31.jpg"><img src="/assets/images/2025/best_team_31.jpg"></a>    
 </figure>
 
