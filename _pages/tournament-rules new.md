@@ -8,17 +8,13 @@ author_profile: false
 ---
 
 ## **FORMAT**
-Squad Goals will be using the Standard timeline as outlined in the AMG Challenger rules document found here: [https://www.atomicmassgames.com/marvel/op](https://www.atomicmassgames.com/marvel/op). Largely the other rules in the challenger doc will be followed, but in a few cases, we diverge from the rules template provided there, which are detailed below.
+Squad Goals will be using the Standard Format with the Challenger Event Document document found here: [https://www.atomicmassgames.com/marvel/op](https://www.atomicmassgames.com/marvel/op). Largely the other rules in the challenger doc will be followed, but in a few cases, we diverge from the rules template provided there, which are detailed below.
 
 ### **Team Construction**
 Teams will be made of 3 players.
 
-* Teams may not have any duplicate Characters or Crisis Cards
-* Teams may have duplicate Tactics Cards
-
-[comment]: # (* Teams may have duplicate Unrestricted Tactics cards)
-
-[comment]: # (* Teams may only have two copies of a Restricted Tactic card across the three rosters)
+* Teams may not have any duplicate Characters
+* Teams may have duplicate Crisis Cards or Tactics Cards
 
 ### **Matchup Process**
 The captains from each team will work together to determine the individual pairings of the players within their teams using the following method:
@@ -78,16 +74,3 @@ Each player is responsible for their own time. A player has the right to pass th
 The clock may be paused at the players’ discretion to resolve rules queries or judge calls. Excessive pausing of the clock will be considered time wasting by the judges and may be penalised.
 
 In order to ensure timing in tournament games is fair and reasonable, at the end of the round the clock is immediately paused for the entirety of the Cleanup Phase and the following Power Phase. If either player is taking an excessive amount of time to resolve any decisions or player effects, a judge should be called to help resolve the issue.
-
-## **PAINTING COMPETITION**
-Squad Goals’s painting competition will have three categories, judged by a panel of painting experts:
-
-* Best Total Team (all 30 models!)
-* Best Roster
-* Best Model
-
-The "Total Team" category concerns the set of 30 models played by each player in the tournament. 
-The "Roster" category concerns the set of 10 models the player is using in the tournament. 
-The "Model" category concerns a single model, chosen by the player, that is among the models the player is using in the tournament. 
-
-The painting competition will take place during lunch on Saturday May 18th, and the winners will be announced in the closing ceremony on Sunday May 4th. 

@@ -5,15 +5,21 @@ permalink: /schedule/
 layout: single
 author_profile: false
 ---
+##### Mall Hours
+10am-7pm on Saturday
+11am-6pm on Sunday
+
 ##### Saturday
 - Registration 10:00 AM
-- Round One 11:00 AM
-- Lunch Break 1:30 PM
-- Round Two 2:30 PM
-- Round Three 5:00 PM
+- Round One 10:30 AM
+- Round Two 1:00 PM
+- Round Three 3:30 PM
 
 ##### Sunday
-- Check-in 10:00 AM
-- Round Four 11:00 AM
-- Round Five 1:30 PM
-- Awards 4:00 PM
+- Check-in 11:00 AM
+- Round Four 11:30 AM
+- Round Five 2:00 PM
+- Awards 4:30 PM
+
+
+

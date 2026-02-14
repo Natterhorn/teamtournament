@@ -3,7 +3,6 @@ title: "2025 Painting Competition"
 categories:
   - sg2025
   - paint
-  - news
   - pastEvents
 author_profile: false
 gallery2:
