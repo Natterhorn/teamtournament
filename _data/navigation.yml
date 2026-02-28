@@ -2,7 +2,7 @@ main:
   - title: "Registration"
     url: /registration/
   - title: "Awards"
-    url: /Awards/
+    url: /awards/
   - title: "Rules"
     url: /rules/
   - title: "Schedule"
