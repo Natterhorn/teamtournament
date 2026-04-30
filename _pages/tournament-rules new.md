@@ -10,6 +10,10 @@ author_profile: false
 ## **FORMAT**
 Squad Goals will be using the Standard Format with the Challenger Event Document document found here: [https://www.atomicmassgames.com/marvel/op](https://www.atomicmassgames.com/marvel/op). Largely the other rules in the challenger doc will be followed, but in a few cases, we diverge from the rules template provided there, which are detailed below.
 
+Squad Goals will be using the new crisis and the new Challenger rotation that's laid out in the Challenger document ([https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/04/OP_CrisisProtocol_Challenger_030626.pdf](https://cdn.svc.asmodee.net/production-amgcom/uploads/2026/04/OP_CrisisProtocol_Challenger_030626.pdf)). 
+
+This means any of the crisis revealed in the Sentinel Prime Panel to Play ([https://www.atomicmassgames.com/transmission/panel-to-play-operation-zero-tolerance/](https://www.atomicmassgames.com/transmission/panel-to-play-operation-zero-tolerance/)) will be legal and any old crisis that are getting rotated out will not be allowed.
+
 ### **Team Construction**
 Teams will be made of 3 players.
 
