@@ -8,15 +8,14 @@ author_profile: false
 ##### Saturday
 - Registration 10:00 AM
 - Round One 11:00 AM
-- Lunch Break 1:15 PM
-- Round Two 2:00 PM
-- Round Three 4:15 PM
+- Lunch Break 1:30 PM
+- Round Two 2:30 PM
+- Round Three 5:00 PM
 
 ##### Sunday
 - Check-in 10:00 AM
 - Round Four 10:30 AM
-- Lunch Break 12:45 PM
-- Round Five 1:15 PM
-- Awards 3:30 PM
-
+- Lunch Break 1:00 PM
+- Round Five 2:00 PM
+- Awards 4:30 PM
 
