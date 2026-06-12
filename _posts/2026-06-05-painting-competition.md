@@ -22,7 +22,7 @@ author_profile: false
     <a href="/assets/images/2026/best_roster_2026.png"><img src="/assets/images/2026/best_roster_2026.png"></a>    
 </figure>
 
-<h3>Best Roster:</h3>
+<h3>Best Style:</h3>
 <figure>
     <figcaption>Kaz Meza</figcaption>
     <a href="/assets/images/2026/best_style_2026.png"><img src="/assets/images/2026/best_style_2026.png"></a>    
