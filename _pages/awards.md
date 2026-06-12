@@ -23,4 +23,6 @@ The "Model" category concerns a single model, chosen by the player, that is amon
 * Oscorp HR Presents The Award for Best Style
 The "Best Style" award will go to the single model or roster that the judges personally find the most novel, funniest, or just all around coolest. This is not a technical skill category, but instead based on creativity, theming, and ingenuity.<br/>
 
-[comment]: # (The painting competition will take place during lunch on Saturday May 30th, and the winners will be announced in the closing ceremony on Sunday May 31st.)
+Each player may submit one entry each to all three categories. No player can win more than a single category. Comission painted models or models painted by friends are not allowed.
+
+The painting competition will take place during lunch on day one, and the winners will be announced in the closing ceremony after the finals.

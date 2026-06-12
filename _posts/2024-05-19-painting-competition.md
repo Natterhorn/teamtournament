@@ -20,6 +20,8 @@ gallery2:
     alt: "Fog in the trees"
 
 ---
+2024 Best Painting Winners
+
 <h3>Best Total Team:</h3>
 Juicy Al's Paint Pals
 <figure>    

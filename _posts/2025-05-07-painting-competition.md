@@ -29,6 +29,8 @@ gallery2:
     title: "Zach Cohen"
 
 ---
+2025 Best Painting Winners
+
 <h3>Best Total Team:</h3>
 Power Phase Prodigies
 <figure>    
